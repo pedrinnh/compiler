@@ -1,0 +1,11 @@
+{
+    "id": "compiler",
+    "type": "application",
+    "value": {
+        "author": "Arthur Ricardo",
+        "description": "compiler in c",
+        "version": "0.0.1",
+        "repository": null,
+        "license": null
+    }
+}
