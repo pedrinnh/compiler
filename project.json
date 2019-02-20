@@ -5,7 +5,7 @@
         "author": "Arthur Ricardo",
         "description": "compiler in c",
         "version": "0.0.1",
-        "repository": null,
+        "repository": "https://github.com/artrsousa/compiler",
         "license": null
     }
 }
